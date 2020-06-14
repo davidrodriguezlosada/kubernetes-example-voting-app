@@ -7,7 +7,7 @@ This application has 5 different pods:
 - voting-app-pod
 - worker-app-pod
 
-2 services with type ClusterIp allowing the internal communication between pods:
+two services with type ClusterIp allowing the internal communication between pods:
 - redis-service
 - postgres-service
 
