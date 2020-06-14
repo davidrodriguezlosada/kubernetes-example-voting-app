@@ -1,4 +1,4 @@
-Example of how to deploy a full application with multiple pods and services using deployments. More info on the application on : https://github.com/dockersamples/example-voting-app
+Example of how to deploy a full application with multiple pods and services. More info on the application on : https://github.com/dockersamples/example-voting-app
 
 This application has 5 different pods:
 - postgres-pod
